@@ -47,7 +47,7 @@ This single line of InterLang can translate to Python as such, which can decreas
 
 ```python
 class Point:
-  def __init__(self, ix, iy)
+  def __init__(self, ix, iy):
     self.x = ix
     self.y = iy
 ```

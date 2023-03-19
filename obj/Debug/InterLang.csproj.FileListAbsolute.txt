@@ -1,0 +1,8 @@
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\Research Project\Language\InterLang\bin\Debug\InterLang.exe.config
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\Research Project\Language\InterLang\bin\Debug\InterLang.exe
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\Research Project\Language\InterLang\bin\Debug\InterLang.pdb
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\Research Project\Language\InterLang\obj\Debug\InterLang.csproj.AssemblyReference.cache
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\Research Project\Language\InterLang\obj\Debug\InterLang.csproj.SuggestedBindingRedirects.cache
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\Research Project\Language\InterLang\obj\Debug\InterLang.csproj.CoreCompileInputs.cache
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\Research Project\Language\InterLang\obj\Debug\InterLang.exe
+C:\Users\rhysharris\OneDrive - Tyndale Christian School\Research Project\Language\InterLang\obj\Debug\InterLang.pdb

@@ -1,0 +1,7 @@
+cls Point(int ix:x, int iy:y)
+	fun display()
+		output(x.ToString())
+		output(y.ToString())
+
+Point point = new Point()
+point.display()
